@@ -67,6 +67,8 @@ header nav a {
   margin-left: 15px;
   text-decoration: underline;
 }
+
+/* Main Section */
 main {
   width: 1200px;
   margin: 0 auto;
@@ -113,4 +115,15 @@ figcaption {
 }
 .transparent {
   background-color: transparent;
+}
+
+/* Footer */
+.contact {
+  height: 200px;
+  margin-top: 0;
+  padding-top: 0;
+}
+footer p {
+  text-align: left;
+  padding-left: 20px;
 }
