@@ -1,6 +1,4 @@
-html {
-  box-sizing: border-box;
-}
+
 * {
   font-family: Helvetica;
   color: seashell;
@@ -45,8 +43,8 @@ header {
   position: fixed;
   left: 0;
   top: 0;
+  right: 0px;
   z-index: 5;
-  width: 100%;
   font-weight: bold;
   border-bottom: 1px solid seashell;
   padding: 0 10px;
